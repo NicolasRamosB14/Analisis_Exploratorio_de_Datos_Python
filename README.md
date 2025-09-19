@@ -4,7 +4,7 @@ Análisis Exploratorio de Datos aplicado a un dataset de miembros de gimnasio ex
 > *Los datos utilizados en el proyecto son de la página: Kaggle y han sido usados con fines académicos. No representan información real de ninguna organización y han sido usados con el propósito de aplicar el conocimiento en el análisis de datos.*
 Dataset: [https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data)*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasRamosB14/Analisis_Exploratorio_de_Datos_Python/blob/main/(EDA)_Gym_Members_Exercise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasRamosB14/Analisis_Exploratorio_de_Datos_Python/blob/main/Gym_Members_Exercise.ipynb)
 ---
 
 ### 1. **Descripción**
