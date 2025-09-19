@@ -33,11 +33,3 @@ Este proyecto sirve como ejemplo concreto de capacidades analíticas en las sigu
 * Pensamiento crítico: Detección de inconsistencias (ej: validación del BMI calculado vs. el reportado).
 
 * Comunicación de resultados: Integración de gráficos y explicaciones claras en un informe estructurado.
-
-* Aplicación práctica: Respuesta a preguntas del mundo real, como:
-
-    * ¿Qué tipo de entrenamiento quema más calorías?
-
-    * ¿Cómo influye la experiencia en la frecuencia de entrenamiento?
-
-    * ¿Existen diferencias significativas en el ritmo cardíaco por género?
