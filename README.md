@@ -5,31 +5,16 @@ Análisis Exploratorio de Datos aplicado a un dataset de miembros de gimnasio ex
 Dataset: [https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data)*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasRamosB14/Analisis_Exploratorio_de_Datos_Python/blob/main/Gym_Members_Exercise.ipynb)
----
-
-### 1. **Descripción**
-Este proyecto se enfoca en analizar datos de miembros de un gimnasio para explorar patrones relacionados con hábitos de ejercicio, salud física y eficiencia de los entrenamientos. Utilizando un dataset de Kaggle que incluye variables como edad, género, frecuencia de entrenamiento, calorías quemadas, tipo de ejercicio y composición corporal, el objetivo es identificar relaciones clave entre características demográficas, fisiológicas y de rendimiento.
 
 ---
 
-### 2. **Objetivo**
+### **Objetivos**
 El propósito de este análisis es evidenciar habilidades técnicas en el manejo de datos, aplicando técnicas de limpieza, visualización y estadística descriptiva e inferencial con Python. A través de este proyecto, se demuestra competencia en:
 
-1. Limpieza y preparación de datos: Manejo de valores faltantes, detección de outliers y validación de rangos lógicos.
+1. Limpieza y preparación de datos: Manejo de valores faltantes, detección de outliers y uso de bibliotecas como Pandas para manipulación de datos, y Matplotlib/Seaborn para visualización.
 
 2. Visualización efectiva: Uso de gráficos (histogramas, boxplots, heatmaps) para comunicar insights.
 
 3. Análisis estadístico: Identificación de correlaciones, comparación de grupos (género, tipo de entrenamiento) y validación de hipótesis.
 
-4. Interpretación de resultados: Extracción de conclusiones accionables para mejorar programas de entrenamiento o salud.
-
----
-
-### 3. **Relevancia del Proyecto**
-Este proyecto sirve como ejemplo concreto de capacidades analíticas en las siguientes áreas:
-
-* Dominio de herramientas técnicas: Uso de bibliotecas como Pandas para manipulación de datos, y Matplotlib/Seaborn para visualización.
-
-* Pensamiento crítico: Detección de inconsistencias (ej: validación del BMI calculado vs. el reportado).
-
-* Comunicación de resultados: Integración de gráficos y explicaciones claras en un informe estructurado.
+4. Interpretación de resultados: Integración de gráficos y explicaciones claras en un informe estructurado.
